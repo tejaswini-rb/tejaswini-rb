@@ -2,7 +2,8 @@
 
 I'm Teja!  
 🎓 MSCS @ Georgia Tech (Machine Learning + Human-Computer Interaction)  
-💡 Building tech for social good
+💡 Building tech for social good  
+💙 Check out my [LinkedIn](https://www.linkedin.com/in/teja-rb/)
 
 <!--
 **tejaswini-rb/tejaswini-rb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
