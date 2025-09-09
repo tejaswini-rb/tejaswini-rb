@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Teja! 
+I'm Teja!  
 🎓 MSCS @ Georgia Tech (Machine Learning + Human-Computer Interaction)  
 💡 Building tech for social good
 
